@@ -1,0 +1,32 @@
+
+body {
+    font-family:arial;
+    padding:50x;
+    margin: auto;
+	background-color: #f0f0f0;
+}
+
+a:link {
+    text-decoration: none;
+}
+table {
+	background-color: #fff;
+	border: 1px solid #999;	
+}
+h1 {
+	color: #36F;
+}
+
+h2{
+	color:black
+}
+h3
+{
+	color:white
+}
+span {
+	color: #F00;
+}
+
+
+
